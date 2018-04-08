@@ -6,13 +6,13 @@ Eslint configration for web apps.
 ## usage
 
 ```sh
-npm install -D eslint babel-eslint eslint-config-web-app
+npm install -D eslint-config-web-app
 ```
 
 ```js
 // .eslintrc.js
-{
+module.exports = {
   "extends": ["web-app"]
-}
+};
 ```
 
