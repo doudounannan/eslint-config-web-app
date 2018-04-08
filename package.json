@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-web-app",
+  "version": "1.0.0-alpha.1",
+  "description": "eslint-config-web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "pub": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doudounannan/eslint-config-web-app.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "mumu <qq616079491@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doudounannan/eslint-config-web-app/issues"
+  },
+  "homepage": "https://github.com/doudounannan/eslint-config-web-app#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.18.0",
+    "tape": "^4.9.0"
+  }
+}
