@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-web-app",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-rc.1",
   "description": "eslint-config-web-app",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/doudounannan/eslint-config-web-app/issues"
   },
   "homepage": "https://github.com/doudounannan/eslint-config-web-app#readme",
-  "Dependencies": {
+  "dependencies": {
     "babel-eslint": "^8.2.2",
     "eslint": "^4.18.0"
   },
