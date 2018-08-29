@@ -12,7 +12,7 @@ npm install -D eslint-config-web-app
 ```js
 // .eslintrc.js
 module.exports = {
-  "extends": ["web-app"]
+  extends: ['web-app']
 };
 ```
 
